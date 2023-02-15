@@ -4,7 +4,7 @@ The body mass index (or BMI) is a measure which shows whether people have the ri
 # How to use:
 1) Download the java file
 2) Use the terminal to open the java file, by typing: "java BmiCalculator.java"
-
-#ERROR 
+3) If you can't use, see the error topic below
+# ERROR 
 You need to fix your classpath
 - See all in the java docs https://docs.oracle.com/javase/tutorial/essential/environment/paths.html
